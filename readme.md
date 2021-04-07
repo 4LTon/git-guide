@@ -9,7 +9,8 @@ LICENSE: [MIT](./license.md)
 ### Содержание:
 1. Система контроля версии GIT
 2. Команды:
-    1. [git add](./commands/add.md)
-    2. [git commit](./commands/commit.md)
+    * [git add](./commands/add.md)
+    * [git commit](./commands/commit.md)
+    * [git status](./commands/status.md)
 
 ---
