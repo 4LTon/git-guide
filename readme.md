@@ -14,4 +14,5 @@ LICENSE: [MIT](./license.md)
     * [git status](./commands/status.md)
     * [git commit](./commands/commit.md)
     * [git push](./commands/push.md)
+    * [git clone](./commands/clone.md)
 ---
