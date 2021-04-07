@@ -8,12 +8,13 @@ LICENSE: [MIT](./license.md)
 
 ### Содержание:
 1. [Система контроля версии GIT](./about.md)
-2. Команды для работы с локальным репозиторием :
+2. Основные команды :
     * [git init](./commands/init.md)
     * [git add](./commands/add.md)
     * [git status](./commands/status.md)
     * [git commit](./commands/commit.md)
-3. Команды для работы с удаленным репозиторием :
+3. Дополнительные команды :
     * [git push](./commands/push.md)
     * [git clone](./commands/clone.md)
+4. [Начало работы с GIT](./start.md)
 ---
