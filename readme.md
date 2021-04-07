@@ -17,5 +17,6 @@ LICENSE: [MIT](./license.md)
     * [git push](./commands/push.md)
     * [git clone](./commands/clone.md)
     * [git log](./commands/log.md)
+    * [git show](./commands/show.md)
 4. [Начало работы с GIT](./start.md)
 ---
